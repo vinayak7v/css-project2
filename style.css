@@ -1,0 +1,210 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.maincontainer {
+    background-color: #67676729;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-body {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.nav {
+    background-color: white;
+    padding: 20px;
+    width: 100%;
+
+}
+
+.icon {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.item1 {
+    background-color: white;
+    width: 352px;
+    height: 360px;
+    text-align: center;
+    margin: 20px;
+
+
+
+}
+
+.item1:hover {
+    box-shadow: 3px 0px 7px 5px #d2cdcd;
+}
+
+.item2 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item3 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item4 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+.item5 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+}
+
+h3 {
+    padding: 10px;
+}
+
+.fa-sharp {
+    padding: 20px;
+    width: 10px;
+
+}
+
+.ancor {
+    text-decoration: none;
+    font-size: large;
+    color: #00A5EC;
+
+}
+.hide{
+    text-decoration: none;
+    font-size: large;
+    color: #00A5EC;
+
+}
+
+h3 {
+    color: #00A5EC;
+}
+
+span {
+    color: #00A5EC;
+    margin: 5px;
+}
+
+
+.trip {
+    text-decoration: none;
+}
+
+
+/* PAGE 2 */
+
+
+.second {
+    background-color: #67676729;
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+
+}
+
+h5 {
+    padding: 8px;
+}
+
+.prime {
+    height: 200px;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 475px;
+    margin-top: 300px;
+    border: 2px solid black;
+    position: absolute;
+    top: 5%;
+}
+
+h2 {
+    margin-left: 25px;
+}
+
+button {
+    margin-left: 400px;
+    background-color: #00A5EC;
+    color: white;
+}
+
+.blurr {
+    filter: blur(1px);
+    opacity: 1px;
+}
+
+
+/* page3 */
+
+
+.first {
+    text-align: left 100px;
+    height: 900px;
+    width: 100%;
+    background-color: #67676729;
+}
+
+.navigation {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+
+.box1 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    margin: 20px;
+    margin-left: 630px;
+    margin-top: 175px;
+
+}
+
+.box1:hover {
+    box-shadow: 3px 0px 7px 5px #d2cdcd;
+}
+
+
+/* page 4 */
+
+.blurr4 {
+    filter: blur(1px);
+    opacity: 0.5px;
+}
